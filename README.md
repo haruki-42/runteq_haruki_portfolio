@@ -43,3 +43,7 @@
 * ユーザーの昔の絵と現在の絵を見比べられる機能
 * 通知機能
 * コメント欄に、長期間フォローしている人へのバッジアイコン機能
+
+## 画面遷移図
+画面遷移図:https://www.figma.com/file/hUM2i3edvNzfNVbgCIMusf/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=pE5wfOm2H7pecURN-1
+UI:https://www.figma.com/file/izCqevQLCJne6MxhrD0I9C/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&mode=design&t=JKQwzbIgjLeqrEL9-1
