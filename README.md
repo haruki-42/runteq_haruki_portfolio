@@ -47,3 +47,6 @@
 ## 画面遷移図
 画面遷移図:https://www.figma.com/file/hUM2i3edvNzfNVbgCIMusf/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&node-id=0%3A1&mode=design&t=BzQfx2IZ66SPHy9r-1
 UI:https://www.figma.com/file/izCqevQLCJne6MxhrD0I9C/UI?type=design&node-id=0%3A1&mode=design&t=dVxVoqmIsdz1OIaz-1
+
+## ER図
+![Alt text](image.png)
