@@ -49,4 +49,4 @@
 UI:https://www.figma.com/file/izCqevQLCJne6MxhrD0I9C/UI?type=design&node-id=0%3A1&mode=design&t=dVxVoqmIsdz1OIaz-1
 
 ## ER図
-![Alt text](image.png)
+![Alt text](image-1.png)
